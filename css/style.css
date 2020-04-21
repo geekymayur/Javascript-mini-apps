@@ -1,0 +1,57 @@
+.header{
+  height:50px;
+  /* background-color: blue; */
+  /* margin-bottom: 50px; */
+}
+
+
+.box-1 {
+  height:100%;
+  width: 100%;
+  background-color: rgba(209, 211, 211, 0.726);
+  padding: 5px;
+}
+
+.control_area1 {
+  /* background-color: rgba(245, 245, 220, 0.151); */
+  height:50px;
+  position: relative;
+  bottom: 0px;
+}
+
+#button_1 {
+  position: relative;
+  left: calc(50% - 75px);
+  width: 150px;
+  /* top: 50px; */
+}
+
+.timeDetail{
+  /* border: 1px solid black; */
+  padding: 5px;
+  margin: auto;
+  width: 300px;
+  text-align: center;
+}
+tr:nth-child(2){
+  background-color: rgba(0, 0, 0, 0.137);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.26);
+  border-top: 1px solid rgba(0, 0, 0, 0.26);
+
+}
+
+.newdiv{
+  height:150px;
+  width: 80%;
+  margin: auto;
+  font-style: italic;
+  /* background-color: coral; */
+
+}
+
+
+
+#changeColor{
+  background-color: brown;
+  border-radius: 15px;
+}
